@@ -8,4 +8,5 @@ func main() {
 	}
 
 	fmt.Printf("%t", true)
+	fmt.Printf("\n %q \n", 8984)
 }
